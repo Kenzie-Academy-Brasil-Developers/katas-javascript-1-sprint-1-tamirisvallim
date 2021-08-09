@@ -67,7 +67,7 @@ function squareNumbers() {
   return the result */
     let square = []
     for (let s = 1; s <= 10; s++ ){
-      square.push (s * s) === square
+      square.push (s * s)
     }
     return square
 }
@@ -153,3 +153,5 @@ console.log (squareNumbersBackwards())
 
 //Não consegui utilizar nenhuma  while, eu tentei varias formas. 
 //Só consegui utilizar fora da funçao.
+
+
